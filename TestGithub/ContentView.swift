@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, this is a test for printing!")
             Text("This is much more better")
             Text("One more text")
+            Text("This is a big letter ")
         }
         .padding()
         .multilineTextAlignment(.center)
