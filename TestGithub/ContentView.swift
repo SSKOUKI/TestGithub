@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, this is a test for printing!")
             Text("This is much more better")
+            Text("One more text")
         }
         .padding()
         .multilineTextAlignment(.center)
